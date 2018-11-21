@@ -17,7 +17,7 @@ apt install git
 apt install php
 apt install wget
 apt install openssh
-apt curl
+apt install curl
 git clone https://github.com/thelinuxchoice/shellphish
 cd shellphish
 bash shellphish.sh
